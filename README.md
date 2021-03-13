@@ -1,0 +1,2 @@
+# azure-policy
+[PUBLIC]
