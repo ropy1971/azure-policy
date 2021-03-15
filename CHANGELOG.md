@@ -5,6 +5,12 @@
 
 this file is containing all modifications concerning this repository.
 
+# license
+
+-check the license file for more details
+
 # updates
 
-# last update: 2021.03.14
+-add policies concerning tagging check
+
+# last update: 2021.03.15
