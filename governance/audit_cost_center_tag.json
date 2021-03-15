@@ -1,0 +1,15 @@
+{
+    "mode": "Indexed",
+    "policyRule": {
+      "if": {
+        "not": {
+          "field": "tags.Cost_center",
+          "exists": false
+        }
+      },
+      "then": {
+        "effect": "audit"
+      }
+    },
+    "parameters": {}
+  }

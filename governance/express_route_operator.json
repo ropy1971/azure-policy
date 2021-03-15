@@ -1,0 +1,22 @@
+{
+    "Name": "ExpressRoute Operator",
+    "Id": "",
+    "IsCustom": true,
+    "Description": "Get ExpressRoute stats. Only read operations allowed.",
+    "Actions": [
+        "Microsoft.Resources/subscriptions/resourceGroups/read",
+        "Microsoft.Resources/subscriptions/resourcegroups/resources/read",
+        "Microsoft.Network/expressRouteCircuits/read",
+        "Microsoft.Network/expressRouteCircuits/peerings/connections/read",
+        "Microsoft.Network/expressRouteCircuits/peerings/read",
+        "Microsoft.Network/expressRouteCircuits/peerings/stats/read",
+        "Microsoft.Network/expressRouteCircuits/stats/read"
+    ],
+    "NotActions": [],
+    "DataActions": [],
+    "NotDataActions": [],
+    "AssignableScopes": [
+        "/subscriptions/",
+        "/subscriptions/"
+    ]
+  }

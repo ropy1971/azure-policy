@@ -1,0 +1,15 @@
+{
+    "mode": "Indexed",
+    "policyRule": {
+      "if": {
+        "not": {
+          "field": "tags.Environment",
+          "exists": false
+        }
+      },
+      "then": {
+        "effect": "audit"
+      }
+    },
+    "parameters": {}
+  }
