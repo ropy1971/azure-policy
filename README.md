@@ -5,14 +5,25 @@
 
 ## status
 
-[PUBLIC]
+the current status for this project is:
 
-## folders organization
+- [PUBLIC]
+
+it means that all the content is publicly accessible.
+
+## content
+
+the content for this repository is:
+
+- [azure](https://github.com/ropy1971/azure-policy/tree/main/azure)
+- [compute](https://github.com/ropy1971/azure-policy/tree/main/compute)
+- [governance](https://github.com/ropy1971/azure-policy/tree/main/governance)
+- [storage]()
 
 ## comments
 
 ## license
 
-Check the license file.
+concerning the license for this repository and concerned projects, please check the license file: [LICENSE](https://github.com/ropy1971/azure-policy/blob/main/LICENSE)
 
-## last update: 2021.06.22
+## last update: 2021.06.25
