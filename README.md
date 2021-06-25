@@ -18,7 +18,7 @@ the content for this repository is:
 - [azure](https://github.com/ropy1971/azure-policy/tree/main/azure)
 - [compute](https://github.com/ropy1971/azure-policy/tree/main/compute)
 - [governance](https://github.com/ropy1971/azure-policy/tree/main/governance)
-- [storage]()
+- [storage](https://github.com/ropy1971/azure-policy/tree/main/storage)
 
 ## comments
 
