@@ -24,6 +24,6 @@ the content for this repository is:
 
 ## license
 
-concerning the license for this repository and concerned projects, please check the license file: [LICENSE](https://github.com/ropy1971/azure-policy/blob/main/LICENSE)
+concerning the license for this repository and concerned projects, please check the license file: [LICENSE](./LICENSE)
 
 ## last updates: 2021.06.25
